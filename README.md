@@ -25,7 +25,7 @@ Elaborar e Desenvolver um Plano de Marketing utilizando os conhecimentos adquiri
 <details>
 <summary> <h2> 📝 Minhas Anotações </h2> </summary>
 <blockquote>
-  <li><a href="https://"> Anotações. </a></li>
+  <li><a href="https://diegojfsr.notion.site/Trabalho-Final-Elaboracao-Plano-de-Marketing-ff704bfd63944847bd11b772fb0379e1"> Anotações. </a></li>
 </blockquote>
 </details>
 
