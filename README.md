@@ -11,12 +11,11 @@ Elaborar e Desenvolver um Plano de Marketing utilizando os conhecimentos adquiri
 <h2 dir="auto"> 🚦 PLANEJAMENTO </h2>
 <ul dir="auto">
  <li> Análise do ambiente (análise SWOT ou FOFA) <a href="https://">Acessar</a> </li>
- <li> Definição do público-alvo (segmentação: fatores geográficos, fatores demográficos, fatores psicográficos e fatores comportamentais) <a href="https://"> Acessar </a> </li>
- <li> Definição do posicionamento de mercado (imagem que deseja transmitir ao seu cliente em relação ao seu negócio) <a href="https://"> Acessar </a> </li>
+ <li> Definição do público-alvo. <a href="https://"> Acessar </a> </li>
+ <li> Definição do posicionamento de mercado.<a href="https://"> Acessar </a> </li>
  <li> A importância da marca. <a href="https://"> Acessar </a> </li>
- <li> Definição de objetivos e metas. <a href="https://"> Acessar </a> </li>
- <li> Definição das estratégias de marketing (O composto de marketing). <a href="https://"> Acessar </a> </li>
- <li> Produto - Preço - Praça (distribuição) - Promoção (comunicação) - Pessoas. <a href="https://"> Acessar </a> </li>
+ <li> Definição dos objetivos e metas. <a href="https://"> Acessar </a> </li>
+ <li> Definição das estratégias de marketing. <a href="https://"> Acessar </a> </li>
 </ul>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
